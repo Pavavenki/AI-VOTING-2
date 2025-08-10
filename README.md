@@ -34,7 +34,7 @@ An advanced and secure voting platform using biometric authentication (fingerpri
 - **AI/ML**: Facial match confidence, vote fraud detection
 - **Cloud Deployment**: Render
 
-TEAM NAME - QUANTUM SPARKS Checkpoint 1 – Tasks Completed:
+TEAM NAME - QUANTUM SPARKS 
 Folder structure initialized:
 client/ for frontend (React + Vite)
 Project initialized using npm init -y
@@ -43,7 +43,7 @@ Installed frontend and backend dependencies
 Created initial components (App.tsx)
 Git repository initialized and first commit made
 
-Checkpoint 2 – Tasks Completed:
+
 Added essential project metadata and configuration:
 package.json
 package-lock.json
@@ -53,7 +53,7 @@ Documented the list of integrated technologies
 Described setup steps and project overview in README.md
 Committed all above files as part of second milestone
 
-Checkpoint 3 – Tasks Completed:
+
 Completed and committed all key frontend components:
 admin/ – components for admin login and dashboard
 public/ – user-side components
@@ -65,7 +65,7 @@ language-provider.tsx and language-selector.tsx
 recaptcha.tsx for bot prevention
 Frontend logic is now modular, responsive, and ready to be integrated with backend and Ethereum logic
 
-Checkpoint 4 – Tasks Completed:
+
 Integrated essential custom React hooks:
 use-admin-auth, use-citizens, use-language, use-mobile, and use-toast
 Added reusable blockchain and client utilities in lib/:
@@ -79,7 +79,7 @@ Public Portal & Voting Portal
 Not Found / 404 fallback
 Frontend now fully structured and logic-ready
 
-Checkpoint 5 – Tasks Completed:
+
 Database structure and schema finalized
 Added migration SQL file:
 0000_whole_argent.sql defining all table structures
@@ -87,7 +87,7 @@ Included Drizzle/ORM meta data:
 Snapshot and migration journal JSON files under migrations/meta/
 Database now ready for integration with backend APIs and frontend components
 
-Checkpoint 1 DAY 2 – Tasks Completed:
+
 Created and structured the complete backend in server/ folder
 Integrated database connection logic via db.ts (e.g., Supabase)
 Set up index.ts as the main server entry point
@@ -97,7 +97,7 @@ Configured vite.ts for dev-server support and environment setup
 Prepared the server to handle real-time requests from frontend
 Backend is now ready to be connected with the frontend and database
 
-Checkpoint 2 Day 2- Tasks Completed:
+
 Built the complete frontend with the guidance of the wireframe we made on Day 1.
 Added core shared files used by both frontend and backend:
 languages.ts: language options and display mapping
@@ -105,7 +105,7 @@ schema.ts: shared data types and form validation schema
 voting-utils.ts: helper logic for vote formatting, checks, etc.
 These files improve code reusability, consistency, and scalability across the app
 
-Checkpoint 3  Day 2 -Tasks Completed:
+
  Connected Supabase database with the project using db.ts
  Verified data flow from frontend to Supabase through API calls
  MVP version of the project is now running successfully on local
@@ -113,7 +113,7 @@ Checkpoint 3  Day 2 -Tasks Completed:
  Data is stored in Supabase tables created from migrations
  Environment setup with .env variables is complete and secure
 
- CHECKPOINT 4  Day 2 -Tasks Completed:
+ 
 Deployment Achieved:
 Project successfully deployed on Render
 Connected to Supabase database in production
@@ -132,20 +132,21 @@ https://ai-and-blockchain-based-voting-system.onrender.com
 
 https://drive.google.com/file/d/1HZhcF0paYO-XSEXVrrCBDeGBDA1Ju2lI/view?usp=drivesdk
 
-3. Wireframes
+3. PPT LINK
+
+https://docs.google.com/presentation/d/1KSrcbcAXM3tYaikh2E-BGebsGcTfGLxR/edit?usp=sharing&ouid=111132906858127341147&rtpof=true&sd=true
+
+4. Wireframes
 
  Public/Voting Portal - https://app.visily.ai/projects/0b3689d0-b35e-438a-833a-73453880ec7c/boards/1951334/presenter?play-mode=Prototype
 
-Admin Portal - https://app.visily.ai/projects/0e7c2689-d8f0-4f43-a9a2-e263624fd2f0/boards/1951414/presenter?play-mode=Prototype
+ Admin Portal - https://app.visily.ai/projects/0e7c2689-d8f0-4f43-a9a2-e263624fd2f0/boards/1951414/presenter?play-mode=Prototype
 
-4. Prototype Performance Report
+5. Prototype Performance Report
 
 https://drive.google.com/file/d/1ZukQYZ31XYxDFkGVZzrGWij2J8tF8HZm/view?usp=drivesdk
 
-5. MVP SNAPSHOTS
+6. MVP SNAPSHOTS
 
 https://drive.google.com/file/d/1Zw6YqnTxGpK4P5h7PzorbkZVfCuSCHH0/view?usp=drivesdk
 
-6. PPT LINK
-
-https://docs.google.com/presentation/d/1KSrcbcAXM3tYaikh2E-BGebsGcTfGLxR/edit?usp=sharing&ouid=111132906858127341147&rtpof=true&sd=true
