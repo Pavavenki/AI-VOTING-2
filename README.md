@@ -130,7 +130,7 @@ https://ai-and-blockchain-based-voting-system.onrender.com
 
 2. MVP Explanation Video
 
-https://drive.google.com/file/d/1L_9yEL8PyceOv2WMLpPFXcx4xERC0wAn/view?usp=drivesdk
+https://drive.google.com/file/d/1HZhcF0paYO-XSEXVrrCBDeGBDA1Ju2lI/view?usp=drivesdk
 
 3. Wireframes
 
@@ -148,4 +148,4 @@ https://drive.google.com/file/d/1Zw6YqnTxGpK4P5h7PzorbkZVfCuSCHH0/view?usp=drive
 
 6. PPT LINK
 
-https://docs.google.com/presentation/d/1rbye9CFBkj_mtHNsgDT-bd49GE2J_itX/edit?usp=sharing&ouid=105230393775856530307&rtpof=true&sd=true
+https://docs.google.com/presentation/d/1KSrcbcAXM3tYaikh2E-BGebsGcTfGLxR/edit?usp=sharing&ouid=111132906858127341147&rtpof=true&sd=true
